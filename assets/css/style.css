@@ -1,0 +1,117 @@
+body{
+	
+	/*background: url("../../assets/images/lavender2.jpg");
+	background-repeat: no-repeat;*/
+	background: #ccccff;
+	margin: 1%;
+	padding: 1%;
+	font-family: sans-serif;
+	overflow: auto;
+}
+
+#page_wrap{
+	margin: 0 auto;
+	max-width: 960px;
+	background: #e6e6ff;
+	height: 100%;
+	border-style: 2px solid #F5B041;
+	overflow: auto;
+}
+
+header {
+	background: #F5B041;
+	width: 35%;
+	height: 25%;
+	padding: 1%;
+	margin: 0.5%
+
+	
+}
+
+h1{
+	font-family: Helvetica, sans-serif;
+	color: #666699;
+	text-align: center;
+	line-height: 100%;
+	padding-top: 1%;
+}
+
+#game_rules{
+	background: #CCCCFF;
+	width: 35%;
+	color: #000080;
+	padding: 1%;
+	margin: 0.5%;
+}
+
+.score_board{
+	background: #b3b3ff;
+	width: 35%;
+	height: 110px;
+	padding: 1%;
+	margin: 0.5%
+	
+}
+ #random {
+ 	
+ 	width: 69%;
+	height: 100px;
+ 	margin: 0.5%;
+ 	float: left;
+ }
+ #random_num_display{	
+ 	
+	background: #CCCCFF;
+	width: 97%;
+	height: 100px;
+	padding: 1%;
+	
+	/*float: left;*/
+}
+
+#winLose{
+	
+	width: 28%;
+	background: #F5B041;
+	color: #000080;
+	height: 98px;
+	float: right;
+	padding: 1%;
+
+}
+	
+	/*float: left;
+}*/
+#images{
+	width:35%;
+	padding: 0.5%;
+	margin: 0.75%;
+	border: 3px solid #9999ff;
+}
+img{
+	width: 97%;
+	border-style: 2px solid #F5B041;
+	border-radius: 3%;
+}
+button{
+	display: inline-block;
+	width: 24%;
+	height: 55px;
+}
+#totalScore{
+	width: 35%;
+	height: 50px;
+	font-size: 150%;
+	color: #666699;
+	background: #F5B041;
+	padding: 1%;
+	margin: 0.5%;
+}
+#scoreDisplay{
+	width: 35%;
+	background: #F5B041;
+	color: #666699;
+	height: 100px;
+	padding: 1%;
+	margin: 0.5%;
+}
