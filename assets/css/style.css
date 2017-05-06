@@ -13,6 +13,7 @@ body{
 	margin: 0 auto;
 	max-width: 960px;
 	background: #e6e6ff;
+	background: url("../../assets/images/b1.jpg");
 	height: 100%;
 	border-style: 2px solid #F5B041;
 	overflow: auto;
@@ -53,14 +54,13 @@ h1{
 	
 }
  #random {
- 	
  	width: 69%;
 	height: 100px;
  	margin: 0.5%;
  	float: left;
  }
+
  #random_num_display{	
- 	
 	background: #CCCCFF;
 	width: 97%;
 	height: 100px;
@@ -70,7 +70,6 @@ h1{
 }
 
 #winLose{
-	
 	width: 28%;
 	background: #F5B041;
 	color: #000080;
@@ -79,25 +78,26 @@ h1{
 	padding: 1%;
 
 }
-	
-	/*float: left;
-}*/
+
 #images{
 	width:35%;
 	padding: 0.5%;
 	margin: 0.75%;
 	border: 3px solid #9999ff;
 }
+
 img{
 	width: 97%;
 	border-style: 2px solid #F5B041;
 	border-radius: 3%;
 }
+
 button{
 	display: inline-block;
 	width: 24%;
 	height: 55px;
 }
+
 #totalScore{
 	width: 35%;
 	height: 50px;
@@ -107,6 +107,7 @@ button{
 	padding: 1%;
 	margin: 0.5%;
 }
+
 #scoreDisplay{
 	width: 35%;
 	background: #F5B041;
