@@ -117,8 +117,9 @@ button img{
 #scoreDisplay{
 	width: 35%;
 	background: #F5B041;
-	color: #666699;
+	font-size: 2em;
 	color: #000080;
+	text-align: center;
 	height: 100px;
 	padding: 1%;
 	margin: 0.5%;

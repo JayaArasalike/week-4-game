@@ -39,14 +39,14 @@ function checkTotal(val) {
   	console.log("You Won");
   	winCounter++;
   	$("#tscoreWin").html(winCounter);
-  	$("#mesg").html('<h1>You Won!</h1>');
+  	$("#mesg").html('You Won!');
   	resetGame();
   }
   else if (totalScore > random_num) {
     console.log("You Lost");
     lossCounter++;
     $("#tscoreLost").html(lossCounter);
-    $("#mesg").html('<h1>You Lost!</h1>');
+    $("#mesg").html('You Lost!');
     resetGame();
   }
 }
