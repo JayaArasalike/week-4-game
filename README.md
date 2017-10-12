@@ -1,3 +1,4 @@
+This project is deployed at: https://jayaarasalike.github.io/week-4-game/
 
 	** Crystal Collector Game **
 
